@@ -1,4 +1,4 @@
-# Group 15 – Full Stack Recipe App
+# Group 15 – Full Stack Recipe App (Personal)
 
 A full-stack recipe app: a **React Native (Expo) mobile app** backed by a **Node.js / Express REST API** and a **Neon (serverless PostgreSQL)** database.
 Browse recipes by category, search, view recipe details, and save your favorites to your account.
